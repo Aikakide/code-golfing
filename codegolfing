@@ -1,0 +1,4 @@
+#i made a super compact tictactoe (codegolfing) with bitwise integers with python
+
+B=[0,0];p=0
+while 1:i=int(input())-1;B[p]|=1<<i;any(B[p]&m==m for m in(7,56,448,73,146,292,273,84))and(print(p+1),exit());p^=1
