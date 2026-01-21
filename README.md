@@ -1,4 +1,4 @@
-# bitwise code-golfing
+# code-golfing with bitwise operators and modulo
 Run the script in a Python interpreter.
 
 Players take turns entering a number from 1 to 9 to mark a position.
